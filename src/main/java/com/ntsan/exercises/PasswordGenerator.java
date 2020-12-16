@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class PasswordGenerator {
     public static void main(String[] args) {
-        System.out.print("\nYour password is: " + randomPassword() + "\n\n");
+        System.out.print("\nYour password is: " + randomPassword() + "\n");
     }
 
     public static String randomPassword() {
