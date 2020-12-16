@@ -13,7 +13,7 @@ public class FizzBuzz {
 
         if (i % 3 == 0 && i % 5 == 0) {
             System.out.println(i + " FizzBuzz");
-            return "Test";
+            return "FizzBuzz";
         } else if (i % 5 == 0) {
             System.out.println(i + " Buzz");
             return "Buzz";
