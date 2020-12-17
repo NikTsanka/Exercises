@@ -2,9 +2,9 @@ package com.ntsan.exercises;
 
 import java.util.Scanner;
 
-public class NumberCalculate {
+public class NumberCalculator {
     public static void main(String[] args) {
-        NumberCalculate number = new NumberCalculate();
+        NumberCalculator number = new NumberCalculator();
         number.numOperation();
     }
 
